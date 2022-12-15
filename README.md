@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/correaruan_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/correaruan_/)
 
- - 👦🏾 Tenho 22 anos
+ - 👦🏾 Tenho 23 anos
  - 👨🏽‍🎓 Estou me graduando em Engenharia de Computação
  - 🖥️ Comecei a programar em 2018
 
